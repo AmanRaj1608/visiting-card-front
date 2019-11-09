@@ -1,4 +1,10 @@
-# VisitingCardFront
+<h1 align='center'>Visiting Card Front</h1>
+
+<p align='center'>
+<a href="https://travis-ci.com/JBossOutreach/visiting-card-front"><img src="https://img.shields.io/travis/com/JBossOutreach/visiting-card-front.svg?style=for-the-badge"></a>
+<a href="https://github.com/JBossOutreach/visiting-card-front/issues"><img src="https://img.shields.io/github/issues/JBossOutreach/visiting-card-front.svg?style=for-the-badge"></a>
+<a href="https://github.com/JBossOutreach/visiting-card-front/network/members"><img src="https://img.shields.io/github/forks/JBossOutreach/visiting-card-front.svg?style=for-the-badge"></a>
+</p>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
